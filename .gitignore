@@ -1,0 +1,31 @@
+# Xcode
+*.xcuserstate
+*.xcworkspace/xcuserdata
+*.xcuserdatad
+DerivedData/
+*.pbxuser
+*.mode1v3
+*.mode2v3
+
+# SwiftPM
+.build/
+
+# CocoaPods
+Pods/
+Podfile.lock
+
+# Carthage
+Carthage/Build/
+
+# Fastlane
+fastlane/report.xml
+fastlane/screenshots/
+fastlane/test_output/
+
+# macOS
+.DS_Store
+
+# Archives
+*.xcarchive
+*.ipa
+
